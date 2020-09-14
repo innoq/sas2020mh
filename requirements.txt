@@ -8,3 +8,7 @@ py2neo
 
 # add extension for presentation
 RISE
+
+# experimental library for importing software data
+git+git://github.com/feststelltaste/ozapfdis.git
+git+git://github.com/feststelltaste/ausi.git
