@@ -34,6 +34,6 @@ Die Notebooks selbst können auf der Online-Datenanalyseplattform über den "Run
 
 * [Anleitung zum Installieren der Datenanalyse-Werkzeuge auf den eigenen Rechner](https://www.feststelltaste.de/saw/)
 
-## Workshop
+## Mehr Workshop
 
 * [Software Analytics Workshop (2 Tage)](https://www.feststelltaste.de/software-analytics-workshop/)
