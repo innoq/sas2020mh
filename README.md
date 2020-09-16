@@ -13,13 +13,8 @@ Informationen zum Workshop "Softwaresysteme datengetrieben analysieren"
 * [Graph-basierte Analyse von Design Smells im Java-Code](https://nbviewer.jupyter.org/github/innoq/sas2020mh/blob/master/demos/Graph-based%20Design%20Smells%20Analysis.ipynb) (funktioniert nicht über Binderhub wegen den restriktiven Port-Freigaben der Plattform)
 * [Ideen zum datengetriebenen "Strategic Redesign"](https://nbviewer.jupyter.org/github/innoq/sas2020mh/blob/master/demos/Strategic%20Redesign.ipynb) ([Slideshow-Version](https://nbviewer.jupyter.org/format/slides/github/innoq/sas2020mh/blob/master/demos/Strategic%20Redesign.ipynb))
 
-## Links
 
-* [Meine TOP 5 Empfehlungen für den Einstieg in diverse Themen (u. a. rund um Software Analytics)](https://www.feststelltaste.de/category/top5/)
-* [Eine Sammlung an nützlichen Informationen zu Software Analytics (Paper, Bücher, Online-Kurse etc.)](<https://github.com/feststelltaste/awesome-software-analytics/>)
-
-
-## Hinweise zum Ausführen
+### Hinweise für das Ausführen
 
 - Dieses Repository kann hier auf einer Online-Datenanalyseplattform ausgeführt werden: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/innoq/sas2020mh)
 - Die unten aufgelisteten Jupyter Notebooks können auch einzeln direkt durch den Klick auf das Binder-Symbol ausgeführt werden: 
@@ -30,9 +25,17 @@ Die Notebooks selbst können auf der Online-Datenanalyseplattform über den "Run
 
 ![](assets/run_all.jpg)
 
+
+## Links
+
+* [Meine TOP 5 Empfehlungen für den Einstieg in diverse Themen (u. a. rund um Software Analytics)](https://www.feststelltaste.de/category/top5/)
+* [Eine Sammlung an nützlichen Informationen zu Software Analytics (Paper, Bücher, Online-Kurse etc.)](<https://github.com/feststelltaste/awesome-software-analytics/>)
+
+
 ## Eigene Installation
 
 * [Anleitung zum Installieren der Datenanalyse-Werkzeuge auf den eigenen Rechner](https://www.feststelltaste.de/saw/)
+
 
 ## Mehr Workshop
 
