@@ -3,7 +3,7 @@
 Informationen zum Workshop "Softwaresysteme datengetrieben analysieren"
 
 
-## Gezeigte Notebooks
+## Notebooks
 
 * [Präsentation (als Slideshow, zum Durchklicken)](https://nbviewer.jupyter.org/format/slides/github/innoq/sas2020mh/blob/master/presentation/Softwaresysteme%20datengetrieben%20analysieren.ipynb#/)
 * [Präsentation (als Notebook, zum Durchscrollen)](https://nbviewer.jupyter.org/github/innoq/sas2020mh/blob/master/presentation/Softwaresysteme%20datengetrieben%20analysieren.ipynb#/)
