@@ -15,7 +15,7 @@ Repository für Workshop "Softwaresysteme datengetrieben analysieren"
 
 ## Links
 
-* [Meine Empfehlungen für den Einstieg in diverse Thema (u. a. rund um Software Analytics)](https://www.feststelltaste.de/category/top5/)
+* [Meine TOP 5 Empfehlungen für den Einstieg in diverse Themen (u. a. rund um Software Analytics)](https://www.feststelltaste.de/category/top5/)
 * [Eine Sammlung an nützlichen Informationen zu Software Analytics (Paper, Bücher, Online-Kurse etc.)](<https://github.com/feststelltaste/awesome-software-analytics/>)
 
 
